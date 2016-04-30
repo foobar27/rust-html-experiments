@@ -1,0 +1,11 @@
+[package]
+name = "html-experiments"
+version = "0.1.0"
+authors = ["Sebastien Wagener <sebastien.wagener@gmail.com>"]
+
+[dependencies]
+html5ever = "*"
+string_cache = "*"
+tendril = "*"
+hyper = "*"
+rust-crypto = "^0.2"
